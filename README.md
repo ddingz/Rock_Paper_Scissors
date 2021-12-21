@@ -4,7 +4,7 @@ This code is a rock-paper-scissors implemented as a network programming project.
 
 ---
 
-# Game Rule
+# Game Rules
 
 1. Two clients connect to the server and play a rock-paper-scissors game.
 1. All program logic is implemented as a polling type to the server.
